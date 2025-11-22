@@ -1,24 +1,25 @@
-### Hi there 👋, Miraj hossain khan
-#### **Android Developer  | kotlin   |  Clean Architecture Enthusiast**
-![**Android Developer  | kotlin   |  Clean Architecture Enthusiast**](https://avatars.githubusercontent.com/u/217777951?v=4)
+# Hi there 👋, I'm Miraj Hossain Khan  
 
-I'm an Android mobile application development with Kotlin.
-Currently,
- I’m exploring modern Android practices and building apps with hands-on experience in:
+I'm an Android Developer specializing in **Kotlin** and modern Android development.  
+Currently, I’m exploring the latest Android tools, building real-world apps, and improving my understanding of clean architecture and scalable app design.
 
-📂 ROOM Database for local data storage
-📜 RecyclerView for dynamic & interactive UI
-☁️ Firebase for backend & real-time data
-🌐 Retrofit for API & networking
-![Jetpack Compose](https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)  Jetpack compose 
-Building beautiful and performant mobile apps
-Currently focused on modern android development (Jetpack compose, Hilt,Coroutines,Flow, MVVM)
+## 🔧 Technologies & Tools I Work With
+- 🗂️ **Room Database** – Local data storage with clean & efficient architecture  
+- 📱 **RecyclerView** – Dynamic and interactive UI components  
+- 🔥 **Firebase** – Real-time database, authentication & backend services  
+- 🌐 **Retrofit** – API integration & networking  
+- 🎨 **Jetpack Compose** – Modern UI toolkit for fast and beautiful Android UIs  
+- 🧩 **Jetpack Libraries** – ViewModel, LiveData/Flow, Navigation, WorkManager  
+- 🛠 **Hilt** – Dependency Injection  
+- ⚙️ **Coroutines & Flow** – Asynchronous & reactive programming  
+- 🏛 **MVVM Architecture** – Clean, scalable, maintainable app structure  
 
-Skills: kotlin
+## 🚀 What I'm Working On
+- Building Android apps using **MVVM architecture**  
+- Experimenting with **Jetpack Compose** and advanced Jetpack libraries  
+- Improving skills in **mobile + cloud integration**  
+- Working on real-world projects to strengthen practical development experience  
 
-- 🔭 I’m currently working on Building Android apps with MVVM architecture Experimenting with Jetpack libraries Expanding skills in mobile + cloud integration 
-- 🌱 I’m currently learning kotlin 
-
-
-
-
+## 🌱 Currently Learning
+- Advanced Kotlin features  
+- Scalable Android app architecture  
